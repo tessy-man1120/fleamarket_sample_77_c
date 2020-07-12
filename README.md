@@ -1,5 +1,50 @@
-# README
-# fleamarket_sample_77_c データベース設計
+# FURIMA
+
+フリマアプリのクローンサイトです。  
+プログラミングスクールTechCampの最終課題としてアジャイル開発を用いて作成いたしました。
+
+## APP URL
+
+http://3.114.22.102/
+
+●Basic認証  
+ID：s77teamcfurima  
+Pass：s77teamcfurima  
+  
+【テスト用アカウント】  
+● 購入者用  
+メールアドレス：test2@test  
+パスワード：11111111  
+
+
+●購入用カード情報  
+番号：3530111333300000  
+期限：05 / 25  
+セキュリティカード：123  
+
+
+●出品者用  
+メールアドレス：test@test  
+パスワード：11111111  
+
+## Image
+
+<img width="1438" alt="スクリーンショット 2020-07-12 9 49 47" src="https://user-images.githubusercontent.com/64174311/87245792-4ffd9480-c483-11ea-9ac8-46323e590c05.png">
+
+## Function
+
+ユーザー登録  
+ログイン機能  
+商品出品/編集/削除  
+商品購入  
+クレジットカード登録機能
+
+## ER図
+
+<img width="637" alt="スクリーンショット 2020-07-12 20 40 09" src="https://user-images.githubusercontent.com/64174311/87245760-07de7200-c483-11ea-9497-e4cb63ba8205.png">
+
+
+## データベース設計
 ## Usersテーブル
 |Column|Type|Options|
 |------|----|-------|
